@@ -1,4 +1,4 @@
-## This organization and all its content has been moved to [FPGA Research](https://github.com/FPGA-Research)
+## This organization and its content has been moved to [FPGA Research](https://github.com/FPGA-Research)
 
 <!--
 
